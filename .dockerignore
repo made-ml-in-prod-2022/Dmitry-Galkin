@@ -1,0 +1,6 @@
+tests/.pytest_cache
+venv
+run_scripts.txt
+README.md
+Dockerfile
+.gitignore
